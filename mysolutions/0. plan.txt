@@ -1,0 +1,103 @@
+
+1️⃣ 数组 / 字符串
+
+题型	题号	名称
+Two Sum	1	Two Sum
+Three Sum	15	3Sum
+Sliding Window	3	Longest Substring Without Repeating Characters
+Maximum Subarray	53	Maximum Subarray
+Container With Most Water	11	Container With Most Water
+Two Pointers	167	Two Sum II – Input array is sorted
+
+
+⸻
+
+2️⃣ 哈希表
+
+题型	题号	名称
+Two Sum	1	Two Sum
+Subarray Sum Equals K	560	Subarray Sum Equals K
+Top K Frequent Elements	347	Top K Frequent Elements
+Valid Anagram	242	Valid Anagram
+Group Anagrams	49	Group Anagrams
+
+
+⸻
+
+3️⃣ 栈 / 队列
+
+题型	题号	名称
+Valid Parentheses	20	Valid Parentheses
+Largest Rectangle in Histogram	84	Largest Rectangle in Histogram
+Daily Temperatures	739	Daily Temperatures
+Sliding Window Maximum	239	Sliding Window Maximum
+Implement Queue using Stacks	232	Implement Queue using Stacks
+
+
+⸻
+
+4️⃣ 链表
+
+题型	题号	名称
+Reverse Linked List	206	Reverse Linked List
+Merge Two Sorted Lists	21	Merge Two Sorted Lists
+Linked List Cycle	141	Linked List Cycle
+Remove Nth Node From End	19	Remove Nth Node From End of List
+Add Two Numbers	2	Add Two Numbers
+
+
+⸻
+
+5️⃣ 树 / 二叉树
+
+题型	题号	名称
+Binary Tree Inorder Traversal	94	Binary Tree Inorder Traversal
+Maximum Depth of Binary Tree	104	Maximum Depth of Binary Tree
+Lowest Common Ancestor of BST	235	Lowest Common Ancestor of BST
+Serialize and Deserialize Binary Tree	297	Serialize and Deserialize Binary Tree
+Path Sum	112	Path Sum
+
+
+⸻
+
+6️⃣ 堆 (Heap / PriorityQueue)
+
+题型	题号	名称
+Kth Largest Element in an Array	215	Kth Largest Element in an Array
+Merge K Sorted Lists	23	Merge K Sorted Lists
+Top K Frequent Elements	347	Top K Frequent Elements
+Sliding Window Maximum	239	Sliding Window Maximum
+
+
+⸻
+
+7️⃣ 并查集 (Union-Find)
+
+题型	题号	名称
+Number of Connected Components in an Undirected Graph	323	Number of Connected Components
+Redundant Connection	684	Redundant Connection
+Friend Circles	547	Number of Provinces
+
+
+⸻
+
+8️⃣ 贪心 + 排序
+
+题型	题号	名称
+Non-overlapping Intervals	435	Non-overlapping Intervals
+Minimum Number of Arrows to Burst Balloons	452	Minimum Number of Arrows to Burst Balloons
+Jump Game	55	Jump Game
+Gas Station	134	Gas Station
+
+
+⸻
+
+9️⃣ 动态规划 (DP)
+
+题型	题号	名称
+Climbing Stairs	70	Climbing Stairs
+Maximum Subarray	53	Maximum Subarray
+Unique Paths	62	Unique Paths
+House Robber	198	House Robber
+Decode Ways	91	Decode Ways
+
